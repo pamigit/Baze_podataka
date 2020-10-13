@@ -9,3 +9,5 @@ Namenjeno ucinicima SI smera Druge kragujevacke gimnazije
 * 07.10.2020. sreda (2 casa)
   - Uploadovala "02 modelovanje" koju cemo obradjivati na casu
   - Za vezbu izmodelovati dati sistem
+* 14.10.2020. sreda (2 casa)
+  - Uploadovala sam fajlove "04 ERD zadaci resenja", "05 ERD zadaci 2" i "06 ERD zadaci 3" za obradu na casu i ujedno vezba za kontrolni koji ce se odrzati 21.10.2020
