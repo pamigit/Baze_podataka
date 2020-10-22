@@ -14,3 +14,5 @@ Namenjeno ucinicima SI smera Druge kragujevacke gimnazije
 * 21.10.2020. sreda (2 casa)
   - Na casu smo vezbali za test
   - Odlozen test za 22.10.2020
+* 23.10.2020. petak (1 cas)
+  - Uploadovala "10 normalizacija" koju cemo obradjivati na casu
