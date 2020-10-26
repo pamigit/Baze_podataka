@@ -16,3 +16,7 @@ Namenjeno ucinicima SI smera Druge kragujevacke gimnazije
   - Odlozen test za 22.10.2020
 * 23.10.2020. petak (1 cas)
   - Uploadovala "10 normalizacija" koju cemo obradjivati na casu
+* 28.10.2020. sreda (2 casa)
+  - Na casu cemo vezbati za test koji ce se odrzati 04.10.2020
+  - Na testu ce biti potrebno da se ucrta logicki model ERD i da se izvrsi normalizacija
+  - Uploadovala file "11 normalizacija zadaci resenja" i "12 primer ERD - fakultet" koje cemo obradjivati na casu
