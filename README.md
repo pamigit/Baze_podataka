@@ -23,3 +23,5 @@ Namenjeno ucinicima SI smera Druge kragujevacke gimnazije
 * 18.11.2020. sreda (2 casa)
   - Na casu cemo raditi Mapiranje
   - Uploadovala file "13 mapiranje" i "14 mapiranje zadaci"
+* 25.11.2020. sreda (2 casa)
+  - Nastavicemo rad na fajlu "14 mapiranje zadaci"
